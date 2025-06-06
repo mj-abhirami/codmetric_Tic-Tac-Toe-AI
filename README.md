@@ -4,7 +4,7 @@ Developed as part of my internship at **Codmetric (May–June 2025)**, this proj
 
 ---
 
-## 🧠 Tic Tac Toe AI (Minimax)
+# Tic Tac Toe AI (Minimax) 🧠
 
 This is a terminal-based AI game built with **Python**, designed as part of my **AI Internship at Codmetric (May–June 2025)**. The AI evaluates all possible moves to ensure it never loses — making it a great demonstration of recursive decision-making in games.
 
