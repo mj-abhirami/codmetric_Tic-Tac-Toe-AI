@@ -6,24 +6,25 @@ Developed as part of my internship at **Codmetric (May–June 2025)**, this proj
 
 # Tic Tac Toe AI (Minimax) 🧠
 
-This is a terminal-based AI game built with **Python**, designed as part of my **AI Internship at Codmetric (May–June 2025)**. The AI evaluates all possible moves to ensure it never loses — making it a great demonstration of recursive decision-making in games.
+This is a **GUI-based Tic Tac Toe game** built using **Python and Tkinter**, designed during my **AI Internship at Codmetric**. The AI opponent is powered by the **Minimax algorithm**, ensuring optimal moves and unbeatable logic.
 
 ---
 
 ## ✨ Key Features
 
-- Human vs AI Tic Tac Toe (console-based)
-- AI always chooses the best possible move
-- Built using **Minimax algorithm** and **recursion**
-- Displays updated game board after each move
-- Simple and interactive terminal interface
+- Human vs AI gameplay
+- Unbeatable AI using **Minimax algorithm**
+- Graphical interface with **Tkinter**
+- Automatic turn switching and board updates
+- Detects win, lose, and draw conditions with alerts
 
 ---
 
 ## 🧰 Technologies Used
 
 - **Python** 🐍
-- Built-in modules: `random`, `copy`
+- **Tkinter** (for GUI)
+- Built-in modules: `copy`
 
 ---
 
@@ -42,7 +43,15 @@ This is a terminal-based AI game built with **Python**, designed as part of my *
    ```bash
    python tic_tac_toe_minimax.py
 
-4. Play the game: Enter your move (1–9) when prompted!
+4. Play the game: Click on the grid to make your move.
+
+---
+
+### 🎥 Demo
+
+A short video demo of the chatbot in action is included to showcase the features and flow.
+
+[Watch Demo Video](https://youtu.be/___5pPIuTBA)
 
 ---
 
