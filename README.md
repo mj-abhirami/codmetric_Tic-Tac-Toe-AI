@@ -33,8 +33,8 @@ This is a **GUI-based Tic Tac Toe game** built using **Python and Tkinter**, des
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/codmetric_TicTacToe-AI-Minimax.git
-   cd codmetric_TicTacToe-AI-Minimax
+   git clone https://github.com/mj-abhirami/codmetric_Tic-Tac-Toe-AI.git
+   cd codmetric_Tic-Tac-Toe-AI
    
 2. Ensure Python 3.x is installed.
 
