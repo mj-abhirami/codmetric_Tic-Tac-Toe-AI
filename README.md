@@ -1,6 +1,6 @@
 # codmetric_Tic-Tac-Toe-AI
 
-Developed as part of my internship at **Codmetric (May–June 2025)**, this project is a Python-based **Tic Tac Toe AI** using the **Minimax algorithm**. The game allows a human to play against an unbeatable AI that uses optimal strategies based on **game theory**.
+Developed as part of my internship at **Codmetric (May–June 2025)**, this project is a GUI-based Python **Tic Tac Toe AI** using the **Minimax algorithm** and built with Tkinter. The game allows a human to play against an unbeatable AI that follows optimal strategies based on **game theory**.
 
 ---
 
@@ -51,7 +51,7 @@ This is a **GUI-based Tic Tac Toe game** built using **Python and Tkinter**, des
 
 A short video demo of the chatbot in action is included to showcase the features and flow.
 
-[Watch Demo Video](https://youtu.be/___5pPIuTBA)
+[Watch Demo Video](https://youtu.be/QNJIl3TQi_I)
 
 ---
 
