@@ -4,7 +4,7 @@ Developed as part of my internship at **Codmetric (May–June 2025)**, this proj
 
 ---
 
-# Tic Tac Toe AI (Minimax) 🧠
+# Tic Tac Toe AI (Minimax) 🎮
 
 This is a **GUI-based Tic Tac Toe game** built using **Python and Tkinter**, designed during my **AI Internship at Codmetric**. The AI opponent is powered by the **Minimax algorithm**, ensuring optimal moves and unbeatable logic.
 
@@ -20,7 +20,7 @@ This is a **GUI-based Tic Tac Toe game** built using **Python and Tkinter**, des
 
 ---
 
-## 🧰 Technologies Used
+## 🛠️ Technologies Used
 
 - **Python** 🐍
 - **Tkinter** (for GUI)
